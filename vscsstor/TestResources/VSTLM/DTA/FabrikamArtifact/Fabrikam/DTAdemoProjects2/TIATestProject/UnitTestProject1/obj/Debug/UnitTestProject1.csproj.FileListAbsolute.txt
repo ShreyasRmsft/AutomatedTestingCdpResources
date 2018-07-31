@@ -1,0 +1,10 @@
+C:\test-agents\CR-CDP-SHRER-1\_work\1\s\NewBuildSample\UnitTestProject1\bin\Debug\FindFile.ps1
+C:\test-agents\CR-CDP-SHRER-1\_work\1\s\NewBuildSample\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\test-agents\CR-CDP-SHRER-1\_work\1\s\NewBuildSample\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\test-agents\CR-CDP-SHRER-1\_work\1\s\NewBuildSample\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\test-agents\CR-CDP-SHRER-1\_work\1\s\NewBuildSample\UnitTestProject1\bin\Debug\NewBuildSample.dll
+C:\test-agents\CR-CDP-SHRER-1\_work\1\s\NewBuildSample\UnitTestProject1\bin\Debug\NewBuildSample.pdb
+C:\test-agents\CR-CDP-SHRER-1\_work\1\s\NewBuildSample\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\test-agents\CR-CDP-SHRER-1\_work\1\s\NewBuildSample\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\test-agents\CR-CDP-SHRER-1\_work\1\s\NewBuildSample\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\test-agents\CR-CDP-SHRER-1\_work\1\s\NewBuildSample\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

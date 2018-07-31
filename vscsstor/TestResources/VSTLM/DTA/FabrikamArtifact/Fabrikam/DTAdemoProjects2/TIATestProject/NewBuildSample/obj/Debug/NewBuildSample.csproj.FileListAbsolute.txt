@@ -1,0 +1,6 @@
+C:\test-agents\CR-CDP-SHRER-1\_work\3\s\NewBuildSample\NewBuildSample\bin\Debug\FindFile.ps1
+C:\test-agents\CR-CDP-SHRER-1\_work\3\s\NewBuildSample\NewBuildSample\bin\Debug\NewBuildSample.dll
+C:\test-agents\CR-CDP-SHRER-1\_work\3\s\NewBuildSample\NewBuildSample\bin\Debug\NewBuildSample.pdb
+C:\test-agents\CR-CDP-SHRER-1\_work\3\s\NewBuildSample\NewBuildSample\obj\Debug\NewBuildSample.csprojResolveAssemblyReference.cache
+C:\test-agents\CR-CDP-SHRER-1\_work\3\s\NewBuildSample\NewBuildSample\obj\Debug\NewBuildSample.dll
+C:\test-agents\CR-CDP-SHRER-1\_work\3\s\NewBuildSample\NewBuildSample\obj\Debug\NewBuildSample.pdb

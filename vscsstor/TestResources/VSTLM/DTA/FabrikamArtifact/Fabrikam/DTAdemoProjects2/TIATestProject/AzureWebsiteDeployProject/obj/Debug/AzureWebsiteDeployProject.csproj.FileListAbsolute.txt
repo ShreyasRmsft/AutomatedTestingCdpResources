@@ -1,0 +1,7 @@
+C:\test-agents\CR-CDP-SHRER-1\_work\3\s\NewBuildSample\AzureWebsiteDeployProject\bin\Debug\package.zip
+C:\test-agents\CR-CDP-SHRER-1\_work\3\s\NewBuildSample\AzureWebsiteDeployProject\bin\Debug\AzureWebsiteDeployProject.exe.config
+C:\test-agents\CR-CDP-SHRER-1\_work\3\s\NewBuildSample\AzureWebsiteDeployProject\bin\Debug\AzureWebsiteDeployProject.exe
+C:\test-agents\CR-CDP-SHRER-1\_work\3\s\NewBuildSample\AzureWebsiteDeployProject\bin\Debug\AzureWebsiteDeployProject.pdb
+C:\test-agents\CR-CDP-SHRER-1\_work\3\s\NewBuildSample\AzureWebsiteDeployProject\obj\Debug\AzureWebsiteDeployProject.csprojResolveAssemblyReference.cache
+C:\test-agents\CR-CDP-SHRER-1\_work\3\s\NewBuildSample\AzureWebsiteDeployProject\obj\Debug\AzureWebsiteDeployProject.exe
+C:\test-agents\CR-CDP-SHRER-1\_work\3\s\NewBuildSample\AzureWebsiteDeployProject\obj\Debug\AzureWebsiteDeployProject.pdb
